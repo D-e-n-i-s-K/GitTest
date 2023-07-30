@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         // добавлено 1 изменение ветка Мастер
         // Комит 1 дев
+        // Комит 2 дев
     }
 }
