@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
 
         // ветка дев Коммит 1
         // ветка дев Коммит 2
+        // ветка дев Коммит 3
     }
 }
