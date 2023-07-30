@@ -8,5 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         // добавлено 1 изменение ветка Мастер
+
+        // ветка дев Коммит 1
     }
 }
